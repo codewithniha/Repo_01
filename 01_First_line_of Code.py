@@ -10,6 +10,7 @@ x="niha is talented"
 y="niha is genius"
 print(x+y)
 print(x)
+print(y)
 
 x=5
 print("niha is",x,"years old")
